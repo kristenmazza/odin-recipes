@@ -1,0 +1,37 @@
+.header {
+    text-align: center;
+    font-weight: 500; 
+}
+
+.main-title {
+    font-size: 36px;
+    color: white;
+    background-color: rgb(50, 168, 82); 
+}
+
+.recipe-title {
+    font-size: 26px;
+    color: rgb(50, 168, 82);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.credit {
+    text-align: center;
+    font-family: "Courier New", Georgia, "Times New Roman";
+}
+
+h2 {
+    color: white;
+    background-color: rgb(50, 168, 82); 
+    font-size: 20px;
+}
+
+.font {
+    font-family: Garamond, Georgia, "Times New Roman";
+}
